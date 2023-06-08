@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ctouch.com.pe
+Data file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparkerblog.wordpress.xml
+Widget file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-widgets.wie
+Customizer file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+ezy-featured-post - No Title - Site does not support widget
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivo - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Texto - ABOUT ME - Imported
+
+Footer 2 : 
+
+Páginas - QUICK LINKS - Imported
+
+Footer 3 : 
+
+Texto - GET IN TOUCH - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

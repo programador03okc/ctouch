@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ctouch.com.pe
+Data file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparkerblog.wordpress.xml
+Widget file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-widgets.wie
+Customizer file = /home/ctouchpe/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+ezy-featured-post - No Title - Site does not support widget
+Buscar - No Title - Imported
+Entradas recientes - No Title - Imported
+Comentarios recientes - No Title - Imported
+Archivo - No Title - Imported
+Categorías - No Title - Imported
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Texto - ABOUT ME - Widget already exists
+
+Footer 2 : 
+
+Páginas - QUICK LINKS - Widget already exists
+
+Footer 3 : 
+
+Texto - GET IN TOUCH - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

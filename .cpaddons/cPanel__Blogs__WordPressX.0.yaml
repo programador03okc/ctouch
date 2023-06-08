@@ -1,0 +1,65 @@
+---
+"_default_charset_latin1": 'DEFAULT CHARSET=latin1'
+"action_has_prerequisites":
+  "install": 1
+  "uninstall": 1
+  "upgrade": 1
+"addon": 'cPanel::Blogs::WordPressX'
+"addon_path": 'cPanel/Blogs/WordPressX'
+"adminarea_name": ~
+"autoupdate": 0
+"checked": {}
+
+"contactemail": 'ctouchperu@gmail.com'
+"domain": 'ctouch.com.pe'
+"email": 'ctouchperu@gmail.com'
+"existing_mysql": ''
+"gmt_hour_offset": -5
+"homedir": '/home/ctouchpe'
+"hostname": 'cajatambo.yachay.pe'
+"initial_path": 'wordpress'
+"installdir": '/home/ctouchpe/public_html/'
+"installed_4.9.8": '1542728000'
+"installed_on_domain": 'ctouch.com.pe'
+"installpath": './'
+"mysql":
+  "wp":
+    "_post": 'ctouchpe_wp'
+    "mysql-version": '5.5'
+    "sqldb": 'ctouchpe_wp'
+    "sqlhost": 'localhost'
+    "sqlpass": 'caWqnyD8Fr7h'
+    "sqluser": 'ctouchpe_wp'
+"mysql.wp._post": 'ctouchpe_wp'
+"mysql.wp.mysql-version": '5.5'
+"mysql.wp.sqldb": 'ctouchpe_wp'
+"mysql.wp.sqlhost": 'localhost'
+"mysql.wp.sqlpass": 'caWqnyD8Fr7h'
+"mysql.wp.sqluser": 'ctouchpe_wp'
+"mysql_db_name": 'ctouchpe_wp'
+"mysql_pass": 'caWqnyD8Fr7h'
+"mysql_user": 'ctouchpe_wp'
+"mysql_user_post": 'ctouchpe_wp'
+"new_mysql": 'ctouchpe_wp'
+"no_protocol_url_to_install": 'ctouch.com.pe/'
+"no_protocol_url_to_install_without_trailing_slash": 'ctouch.com.pe'
+"postgre": {}
+
+"public_html": '/home/ctouchpe/public_html'
+"registry": 'cPanel::Blogs::WordPressX.0.yaml'
+"salt": 'ctouchpe'
+"security_policies": {}
+
+"table_prefix": 'wp'
+"table_prefix_underscore": 'wp_'
+"unix_time": '1542727993'
+"url": 'ctouch.com.pe/'
+"url_to_install": 'http://ctouch.com.pe/'
+"url_to_install_admin": ''
+"url_to_install_without_trailing_slash": 'http://ctouch.com.pe'
+"user": 'ctouchpe'
+"username": 'ctouchpe'
+"version": '4.9.8'
+"version_key": ~
+"workinginstall": ''
+"wp": 'ctouchpe_wp'

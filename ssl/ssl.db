@@ -1,0 +1,73 @@
+--- 
+files: 
+  certificate: 
+    ctouch_com_pe_c34b4_e034f_1574206651_1bf13cbfc2f1e8c574806f72f8a5c539: 
+      created: '1542670651'
+      domains: 
+        - ctouch.com.pe
+        - mail.ctouch.com.pe
+        - www.ctouch.com.pe
+      friendly_name: Cert for “ctouch.com.pe”
+      id: ctouch_com_pe_c34b4_e034f_1574206651_1bf13cbfc2f1e8c574806f72f8a5c539
+      is_self_signed: 1
+      issuer.commonName: ctouch.com.pe
+      issuer.organizationName: ~
+      modulus: c34b41b9ce2d3712e01426f0ebc82f0dcaa4fe556d27230098376aa02867fb32cee351addd3e788ed6f1547c4caf2024baf4feaa4fc5682e756d7fb4a32c092de8483e2ddf4c5beec79c2d9e576745e2cb82676bd9bf83c06da0c4f1b11534a372187c4caaa4b2d6efe04c63c0b2f597e2b1c97a71bf3e2ea78e2fe0107bd6a860b0433011c6b7f095a5e1364de7183f692b27dfee5c5d7d0133dadae15c5736722df32e1abaf5351868fc030ab3147cdb91c256cb31b4bfd55e5dd7610d7d51392dc75ad69f3e25bcf498c45dc9d4054c190288bad41da9ee227d51bd52d28b62f5e1336469414d1c178f73b13e41af5e825605971cac9d6d611bb6826e034f
+      modulus_length: 2048
+      not_after: '1574206651'
+      not_before: '1542670651'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ctouch.com.pe
+      validation_type: ~
+    ctouch_com_pe_eca49_e6d51_1573394451_60b9da3b3aa21d0d799263c9e581bf9a: 
+      created: '1565622279'
+      domains: 
+        - ctouch.com.pe
+      friendly_name: ctouch.com.pe
+      id: ctouch_com_pe_eca49_e6d51_1573394451_60b9da3b3aa21d0d799263c9e581bf9a
+      is_self_signed: 0
+      issuer.commonName: Let's Encrypt Authority X3
+      issuer.organizationName: Let's Encrypt
+      modulus: eca49462b36d9c5b57bf1ddcd10ce33ccb192f283fe0e762d0f00cd6595306d1ed685986f5237dccaca596c6c8246da6a30111f96e471d61b9c49dad1f6300311c0ebb036422c2c40a758e3ebd02f1cee0b8edcc12328d9a88afa128a947c2dc72fc9a2d6301471b4b000ca20e490f2e3d87e6b651835d831ef6b98a8273c8c28ad4cdcca0affb515280e5c500462713c9d65eeff7dc22e82c3c996ba6c4bca1cec79ee481d1989e53debf2962ea4f75c8f047937916d17864eb4dbab71080f26f3af738e4bc5101f1f3789c8cc5ae9b62978316ffe5759040e21170a3bade84cad727d46b4ed3bc3d45439fc2ce6cc2a5b2b25a2556f559fc1bfc02edfe6d51
+      modulus_length: 2048
+      not_after: '1573394451'
+      not_before: '1565618451'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ctouch.com.pe
+      validation_type: dv
+  key: 
+    c34b4_e034f_e02d14db7efcbc35a71e2cac49b571fb: 
+      created: '1542670651'
+      friendly_name: Key for “ctouch.com.pe”
+      id: c34b4_e034f_e02d14db7efcbc35a71e2cac49b571fb
+      modulus: c34b41b9ce2d3712e01426f0ebc82f0dcaa4fe556d27230098376aa02867fb32cee351addd3e788ed6f1547c4caf2024baf4feaa4fc5682e756d7fb4a32c092de8483e2ddf4c5beec79c2d9e576745e2cb82676bd9bf83c06da0c4f1b11534a372187c4caaa4b2d6efe04c63c0b2f597e2b1c97a71bf3e2ea78e2fe0107bd6a860b0433011c6b7f095a5e1364de7183f692b27dfee5c5d7d0133dadae15c5736722df32e1abaf5351868fc030ab3147cdb91c256cb31b4bfd55e5dd7610d7d51392dc75ad69f3e25bcf498c45dc9d4054c190288bad41da9ee227d51bd52d28b62f5e1336469414d1c178f73b13e41af5e825605971cac9d6d611bb6826e034f
+      modulus_length: 2048
+    eca49_e6d51_bbfc03586221b241c99cddb8513abcfb: 
+      created: '1565622279'
+      friendly_name: ctouch.com.pe
+      id: eca49_e6d51_bbfc03586221b241c99cddb8513abcfb
+      modulus: eca49462b36d9c5b57bf1ddcd10ce33ccb192f283fe0e762d0f00cd6595306d1ed685986f5237dccaca596c6c8246da6a30111f96e471d61b9c49dad1f6300311c0ebb036422c2c40a758e3ebd02f1cee0b8edcc12328d9a88afa128a947c2dc72fc9a2d6301471b4b000ca20e490f2e3d87e6b651835d831ef6b98a8273c8c28ad4cdcca0affb515280e5c500462713c9d65eeff7dc22e82c3c996ba6c4bca1cec79ee481d1989e53debf2962ea4f75c8f047937916d17864eb4dbab71080f26f3af738e4bc5101f1f3789c8cc5ae9b62978316ffe5759040e21170a3bade84cad727d46b4ed3bc3d45439fc2ce6cc2a5b2b25a2556f559fc1bfc02edfe6d51
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c34b41b9ce2d3712e01426f0ebc82f0dcaa4fe556d27230098376aa02867fb32cee351addd3e788ed6f1547c4caf2024baf4feaa4fc5682e756d7fb4a32c092de8483e2ddf4c5beec79c2d9e576745e2cb82676bd9bf83c06da0c4f1b11534a372187c4caaa4b2d6efe04c63c0b2f597e2b1c97a71bf3e2ea78e2fe0107bd6a860b0433011c6b7f095a5e1364de7183f692b27dfee5c5d7d0133dadae15c5736722df32e1abaf5351868fc030ab3147cdb91c256cb31b4bfd55e5dd7610d7d51392dc75ad69f3e25bcf498c45dc9d4054c190288bad41da9ee227d51bd52d28b62f5e1336469414d1c178f73b13e41af5e825605971cac9d6d611bb6826e034f: 
+        ctouch_com_pe_c34b4_e034f_1574206651_1bf13cbfc2f1e8c574806f72f8a5c539: ~
+      eca49462b36d9c5b57bf1ddcd10ce33ccb192f283fe0e762d0f00cd6595306d1ed685986f5237dccaca596c6c8246da6a30111f96e471d61b9c49dad1f6300311c0ebb036422c2c40a758e3ebd02f1cee0b8edcc12328d9a88afa128a947c2dc72fc9a2d6301471b4b000ca20e490f2e3d87e6b651835d831ef6b98a8273c8c28ad4cdcca0affb515280e5c500462713c9d65eeff7dc22e82c3c996ba6c4bca1cec79ee481d1989e53debf2962ea4f75c8f047937916d17864eb4dbab71080f26f3af738e4bc5101f1f3789c8cc5ae9b62978316ffe5759040e21170a3bade84cad727d46b4ed3bc3d45439fc2ce6cc2a5b2b25a2556f559fc1bfc02edfe6d51: 
+        ctouch_com_pe_eca49_e6d51_1573394451_60b9da3b3aa21d0d799263c9e581bf9a: ~
+    subject.commonName: 
+      ctouch.com.pe: 
+        ctouch_com_pe_c34b4_e034f_1574206651_1bf13cbfc2f1e8c574806f72f8a5c539: ~
+        ctouch_com_pe_eca49_e6d51_1573394451_60b9da3b3aa21d0d799263c9e581bf9a: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “ctouch.com.pe”: ctouch_com_pe_c34b4_e034f_1574206651_1bf13cbfc2f1e8c574806f72f8a5c539
+      ctouch.com.pe: ctouch_com_pe_eca49_e6d51_1573394451_60b9da3b3aa21d0d799263c9e581bf9a
+  key: 
+    friendly_name: 
+      Key for “ctouch.com.pe”: c34b4_e034f_e02d14db7efcbc35a71e2cac49b571fb
+      ctouch.com.pe: eca49_e6d51_bbfc03586221b241c99cddb8513abcfb
+    modulus: 
+      c34b41b9ce2d3712e01426f0ebc82f0dcaa4fe556d27230098376aa02867fb32cee351addd3e788ed6f1547c4caf2024baf4feaa4fc5682e756d7fb4a32c092de8483e2ddf4c5beec79c2d9e576745e2cb82676bd9bf83c06da0c4f1b11534a372187c4caaa4b2d6efe04c63c0b2f597e2b1c97a71bf3e2ea78e2fe0107bd6a860b0433011c6b7f095a5e1364de7183f692b27dfee5c5d7d0133dadae15c5736722df32e1abaf5351868fc030ab3147cdb91c256cb31b4bfd55e5dd7610d7d51392dc75ad69f3e25bcf498c45dc9d4054c190288bad41da9ee227d51bd52d28b62f5e1336469414d1c178f73b13e41af5e825605971cac9d6d611bb6826e034f: c34b4_e034f_e02d14db7efcbc35a71e2cac49b571fb
+      eca49462b36d9c5b57bf1ddcd10ce33ccb192f283fe0e762d0f00cd6595306d1ed685986f5237dccaca596c6c8246da6a30111f96e471d61b9c49dad1f6300311c0ebb036422c2c40a758e3ebd02f1cee0b8edcc12328d9a88afa128a947c2dc72fc9a2d6301471b4b000ca20e490f2e3d87e6b651835d831ef6b98a8273c8c28ad4cdcca0affb515280e5c500462713c9d65eeff7dc22e82c3c996ba6c4bca1cec79ee481d1989e53debf2962ea4f75c8f047937916d17864eb4dbab71080f26f3af738e4bc5101f1f3789c8cc5ae9b62978316ffe5759040e21170a3bade84cad727d46b4ed3bc3d45439fc2ce6cc2a5b2b25a2556f559fc1bfc02edfe6d51: eca49_e6d51_bbfc03586221b241c99cddb8513abcfb

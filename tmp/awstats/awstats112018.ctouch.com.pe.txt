@@ -1,0 +1,376 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/ctouchpe/tmp/awstats/awstats.ctouch.com.pe.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 7807                
+POS_DAY 9336                
+POS_DOMAIN 3492                
+POS_LOGIN 3763                
+POS_ROBOT 3918                
+POS_WORMS 4338                
+POS_EMAILSENDER 4469                
+POS_EMAILRECEIVER 4612                
+POS_SESSION 9691                
+POS_SIDER 9889                
+POS_FILETYPES 4747                
+POS_DOWNLOADS 5029                
+POS_OS 5077                
+POS_BROWSER 5260                
+POS_SCREENSIZE 5573                
+POS_UNKNOWNREFERER 5647                
+POS_UNKNOWNREFERERBROWSER 5850                
+POS_ORIGIN 6048                
+POS_SEREFERRALS 6188                
+POS_PAGEREFS 6332                
+POS_SEARCHWORDS 6546                
+POS_KEYWORDS 6698                
+POS_MISC 2345                
+POS_ERRORS 6757                
+POS_CLUSTER 3619                
+POS_SIDER_404 6885                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201105452 1 0 9443813258587
+FirstTime 20181120102126
+LastTime 20181130234403
+LastUpdate 20181202070826 1 0 0 0 0
+TotalVisits 167                 
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 38                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 12 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 112 13512571 13 26 219595
+1 9 58 3948118 6 26 3526355
+2 5 15 341123 3 5 30379
+3 0 0 0 0 0 0
+4 7 40 5748254 26 31 456024
+5 8 55 6993204 5 12 87183
+6 8 54 2386331 2 4 27128
+7 5 6 3425 6 11 93723
+8 4 4 0 5 12 168680
+9 11 102 7145104 12 16 194967
+10 184 737 43881963 25 61 420918
+11 227 868 44515598 9 15 276556
+12 205 792 24340354 17 23 230104
+13 86 317 19553864 12 20 135823
+14 134 298 6971546 9 14 123442
+15 11 133 8318596 12 45 5328446
+16 31 266 22900605 9 14 242603
+17 21 124 13063825 10 18 316532
+18 33 101 7735378 13 16 228919
+19 13 138 15109451 7 7 90735
+20 5 24 1404801 8 10 168273
+21 11 77 7726148 9 12 181247
+22 11 131 15572070 5 11 173473
+23 16 83 11520869 22 26 241926
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+pe 962 3126 116286045
+us 93 1339 154891117
+ie 4 70 11516036
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 86 1517155 20181130122038 13
+YandexBot/ 69 578033 20181130090917 44
+facebookexternalhit/ 28 5184274 20181129160131 0
+unknown 24 1608 20181129154609 24
+Googlebot\-Image/ 23 3518490 20181126043948 0
+bingpreview 21 647948 20181130184757 0
+no_user_agent 10 791904 20181130170851 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+jpg 933 188476982 0 0
+css 535 25140446 0 0
+eot 6 89796 0 0
+html 218 9851603 0 0
+svg 2 3042 0 0
+php 751 23065837 0 0
+png 788 5430251 0 0
+Unknown 28 74521 0 0
+js 1128 26459188 0 0
+gif 90 166372 0 0
+woff2 56 3935160 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win7 1167 81
+Unknown 138 138
+win8.1 12 3
+linuxandroid 110 13
+win10 2902 811
+ios_iphone 35 2
+linux 170 10
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome70.0.3538.80 109 12
+firefox59.0 1 1
+chrome70.0.3538.110 35 2
+chrome66.0.3359.117 59 6
+chrome67.0.3396.87 170 10
+firefox64.0 2772 803
+chrome70.0.3538.102 142 11
+msie8.0 889 55
+safari12.0 35 2
+Unknown 138 138
+chrome47.0.2526.83 1 1
+chrome56.0.2924.76 184 18
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.9.8;_http://ctouch.com.pe 20181130234403
+WordPress/4.9.8;_http://ctouch.com.pe/wordpress 20181120103211
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.8;_http://ctouch.com.pe 20181130234403
+WordPress/4.9.8;_http://ctouch.com.pe/wordpress 20181120103211
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 139 1048
+From1 0 0
+From2 0 0
+From3 3 3
+From4 917 3484
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://cajatambo.yachay.pe:2083 2 2
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 71 0
+302 19 0
+400 5 5
+206 3 12864
+404 42 710750
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/wp-content/uploads/2018/10/cropped-favicon-150x150-32x32.png 2 -
+/ctouch 1 -
+/category/uncategorized/ 3 -
+/2018/11/20/hello-world/ 1 http://ctouch.com.pe/2018/11/20/hello-world/
+/tag/fruits/ 2 -
+/tag/detox/ 1 -
+/hola-mundo/ 2 -
+/wp-content/uploads/2018/10/cropped-favicon-150x150-180x180.png 1 -
+/tag/post 3 -
+/wp-admin/admin-ajax.php 7 http://ctouch.com.pe/wp-admin/customize.php
+/zqdcifpazyev.html 3 -
+/wordpress/2018/11/20/hello-world/ 1 http://ctouch.com.pe/wordpress/2018/11/20/hello-world/
+/tag/juice/ 2 -
+/wp-content/uploads/2018/11/ctouch-laser-nova_college_small.jpg 8 -
+/hola-mundo 3 -
+/tag/post/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 38
+190.117.82.202 701 2229 57762223 20181122143730
+161.132.18.165 138 138 173317 20181130234403
+190.117.82.188 95 439 16778397 20181121165105
+70.42.131.170 36 532 66306588 20181129001813
+65.154.226.100 22 289 32768020 20181128125726
+65.154.226.109 19 357 46019526 20181128223349
+132.191.3.175 12 109 16819206 20181120214925
+190.117.103.196 7 93 12019597 20181128114946
+209.45.68.65 3 12 492516 20181120102225
+132.191.1.174 2 35 5758018 20181122153723
+190.117.82.184 2 35 712269 20181127094930
+64.74.215.158 2 27 872773 20181124184807
+190.237.44.91 2 36 5770502 20181130234406
+64.74.215.1 2 36 1189514 20181124182524
+64.74.215.138 1 1 705 20181123003526
+173.252.95.35 1 1 30245 20181128101319
+64.74.215.164 1 1 704 20181123233425
+64.74.215.139 1 10 283117 20181124171847
+31.13.115.6 1 3 1185463 20181128101254
+64.74.215.154 1 10 337698 20181124141724
+64.246.165.50 1 1 30245 20181129154611
+173.252.95.25 1 4 1931060 20181128101247
+64.74.215.162 1 10 337698 20181125061748
+64.74.215.142 1 9 334618 20181120104024
+64.74.215.166 1 10 337698 20181125061036
+173.252.95.23 0 6 773584 
+31.13.115.19 0 6 547880 
+31.13.115.8 0 4 663863 
+31.13.115.17 0 4 703130 
+31.13.115.18 0 6 2055579 
+173.252.95.5 1 4 1220489 20181128101254
+31.13.115.4 0 18 1178786 
+173.252.95.11 0 8 756650 
+31.13.115.15 1 12 2682287 20181128101246
+31.13.115.12 1 10 286895 20181128112019
+31.13.115.16 1 7 2212153 20181128112010
+64.74.215.174 1 10 283950 20181124141747
+173.252.95.3 0 13 1076235 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20181120 733 2347 75134775 12
+20181121 117 584 35028093 14
+20181122 21 146 17696191 13
+20181123 18 87 7727421 16
+20181124 23 116 7860770 18
+20181125 20 98 8063710 15
+20181126 36 346 42260949 19
+20181127 44 428 38995243 25
+20181128 30 314 42754782 20
+20181129 8 26 1400762 7
+20181130 9 43 5770502 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 6
+30s-2mn 2
+0s-30s 124
+1h+ 7
+15mn-30mn 8
+30mn-1h 20
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 36
+/wp-admin/admin-ajax.php 441 2483718 0 2
+/ 192 9088176 43 20
+/wp-cron.php 133 0 98 98
+/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff2 56 3935160 11 35
+/wp-admin/load-scripts.php 36 1943258 0 0
+/wp-admin/load-styles.php 28 1936958 0 0
+/wp-json/contact-form-7/v1/contact-forms/7 27 74415 0 0
+/wp-admin/customize.php 26 11083049 0 0
+/wp-admin/async-upload.php 20 27226 0 0
+/wp-admin/admin.php 15 1194311 0 0
+/wp-admin/plugins.php 10 603915 0 0
+/wp-admin/themes.php 7 442251 0 0
+/wp-admin/post.php 7 1112397 0 0
+/wp-includes/fonts/dashicons.eot 6 89796 0 0
+/wordpress/wp-admin/admin-ajax.php 5 2594 0 0
+/2018/11/ 5 104785 4 5
+/wp-admin/options-general.php 4 252076 0 0
+/wp-admin/profile.php 4 192139 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 4 859440 0 0
+/tag/fruits/feed/ 4 2820 4 4
+/tag/hello/feed/ 3 2112 1 1
+/theres-a-voice-that-keeps-on-calling-me/ 3 77439 2 1
+/hello-world/ 3 74940 3 1
+/wp-admin/ 3 215689 1 0
+/wordpress/wp-admin/load-scripts.php 2 354355 0 0
+/wp-login.php 1 2260 0 0
+/wp-admin/plugin-install.php 1 87115 0 0
+/wp-admin/theme-install.php 1 41433 0 0
+/wordpress/wp-login.php 2 5569 0 0
+/wordpress/wp-admin/load-styles.php 2 441773 0 0
+/wordpress/ 1 53571 0 0
+/index.php/2018/11/20/hello-world/ 2 115296 0 0
+/wordpress/index.php/2018/11/20/hello-world/ 1 58021 0 0
+/wordpress/wp-cron.php 2 0 0 0
+/wp-json/contact-form-7/v1/contact-forms/7/feedback 1 106 0 0
+/wordpress/wp-admin/ 1 58754 0 0
+END_SIDER
